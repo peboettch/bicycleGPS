@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.git
+logs/server_log.txt
+logs/location_log.txt
+resources
+Website/mapbox_token
+Website/mapbox_public_token
+Website/.remote-sync.json
+git-token
